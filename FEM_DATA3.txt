@@ -1,0 +1,14 @@
+20     Initial temperature
+90000     simulation time [s]
+10      simulation step time [s]
+80    ambient temperature [C]
+125     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+38       n_H
+38       n_B
+600     specific heat [J/kg*C]
+12,5      conductivity [W/m*C]
+3700    density [kg/m^3]
+
+//thermal grizzly kryonaut

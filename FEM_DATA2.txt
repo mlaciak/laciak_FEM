@@ -1,0 +1,26 @@
+20     Initial temperature
+90000     simulation time [s]
+10     simulation step time [s]
+80    ambient temperature [C]
+910     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+38       n_H
+38       n_B
+445     specific heat [J/kg*C]
+91      conductivity [W/m*C]
+8908    density [kg/m^3]
+
+//NIKIEL
+20     Initial temperature
+4400     simulation time [s]
+1      simulation step time [s]
+25    ambient temperature [C]
+910     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+8       n_H
+8       n_B
+445     specific heat [J/kg*C]
+91      conductivity [W/m*C]
+8908    density [kg/m^3]

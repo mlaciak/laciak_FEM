@@ -1,0 +1,40 @@
+20     Initial temperature
+90000     simulation time [s]
+10      simulation step time [s]
+80    ambient temperature [C]
+3750     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+38       n_H
+38       n_B
+385     specific heat [J/kg*C]
+375      conductivity [W/m*C]
+8920    density [kg/m^3]
+
+//miedź
+20     Initial temperature
+1     simulation time [s]
+1      simulation step time [s]
+60    ambient temperature [C]
+3750     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+38       n_H
+38       n_B
+385     specific heat [J/kg*C]
+375      conductivity [W/m*C]
+8920    density [kg/m^3]
+
+//stare
+100     Initial temperature
+500     simulation time [s]
+50      simulation step time [s]
+1200    ambient temperature [C]
+300     alfa [W/m^2k]
+0,1   H [m]
+0,1   B [m]
+4       n_H
+4       n_B
+700     specific heat [J/kg*C]
+25      conductivity [W/m*C]
+7800    density [kg/m^3]
